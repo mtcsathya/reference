@@ -574,6 +574,12 @@ mm-course-module.item.item-complex {
     color: #000;
 }
 
+button.button.ng-binding.button-positive {
+    background: #ffe600;
+    color: #fff;
+    border-color: #ffe600;
+}
+
 
 .mm-site_myoverview .row.row-no-padding.padding-bottom .button.button-dark.button-icon {
     color: #fff;
