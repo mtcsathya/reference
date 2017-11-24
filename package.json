@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.moodlerooms.unsw",
-    "appname": "UNSW Sydney Moodle Mobile",
-    "desktopappname": "UNSW Sydney Moodle Mobile",
+    "app_id" : "com.velammal.velammalmobile17",
+    "appname": "Velammal Mobile",
+    "desktopappname": "Velammal Mobile",
     "versioncode" : "2019",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
@@ -12,7 +12,7 @@
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.telt.unsw.edu.au/",
+    "siteurl": "https://velammal.online/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
